@@ -220,7 +220,7 @@ hr {
 
 .navbar.tiny .navbar-nav>li>a {
     padding-top: 18px;
-    padding-bottom: 18px;
+    padding-bottom: 10px;
 }
 
 .navbar.navbar-default .navbar-nav>li>a:hover {
@@ -234,7 +234,7 @@ hr {
 
 .navbar-nav li a .contact {
     padding: 7px 10px;
-    background-color: #1BBC9B;
+    background-color: #54B2C4;
     color: #FFF;
     border-radius: 4px;
 }
@@ -323,7 +323,7 @@ hr {
     background-color:rgb(34,49,63);
     /* IE 8 OPACITY */
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
-    background-color: rgba(34,49,63,.9);
+    background-color: rgba(34,49,63,.5);
 }
 
 .bg-intro h1 {
@@ -340,8 +340,8 @@ hr {
     animation-fill-mode: both;
     -webkit-animation-name: bounceInUp;
     animation-name: bounceInUp;
-    animation-delay: 1.5s;
-    -webkit-animation-delay: 1.5s;
+    animation-delay: 0.5s;
+    -webkit-animation-delay: 0.5s;
 }
 
 /* ANIMATION */
@@ -550,7 +550,7 @@ hr {
 /* CONTACT
    ================================================== */
 .bg-contact {
-    background-color: #1BBC9B;
+    background-color: #54B2C4;
     color: #FFF;
     padding-top: 32px;
     padding-bottom: 32px;
